@@ -8,3 +8,4 @@ ble outputs (different species of irises) are called classes. Every iris in the 
 belongs to one of three classes, so this problem is a three-class classification problem.
 The desired output for a single data point (an iris) is the species of this flower. For a
 particular data point, the species it belongs to is called its label.
+So basically the model I mad got an accuracy of 97% which is fairly good 
