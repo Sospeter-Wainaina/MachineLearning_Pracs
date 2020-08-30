@@ -10,7 +10,7 @@ The desired output for a single data point (an iris) is the species of this flow
 particular data point, the species it belongs to is called its label.
 So basically the model I mad got an accuracy of 97% which is fairly good 
 
-#Day 2
+# Day 2
 ## Classification Problem
 So basically in this simple machine learning project I took a Wiscounsin Breast Cancer dataset
 which ispublicly available inkaggle, the data did not need that much data cleaning and if so was very little
