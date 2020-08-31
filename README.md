@@ -21,8 +21,7 @@ Strengths, weaknesses, and parameters
 In principle, there are two important parameters to the KNeighbors classifier: the
 number of neighbors and how you measure distance between data points. In practice,
 using a small number of neighbors like three or five often works well, but you should
-certainly adjust this parameter. Choosing the right distance measure is somewhat
-beyond the scope of this book. By default, Euclidean distance is used, which works
+certainly adjust this parameter. By default, Euclidean distance is used, which works
 well in many settings.
 One of the strengths of k-NN is that the model is very easy to understand, and often
 gives reasonable performance without a lot of adjustments. Using this algorithm is a
@@ -35,3 +34,16 @@ ter 3). This approach often does not perform well on datasets with many features
 are 0 most of the time (so-called sparse datasets).
 So, while the nearest k-neighbors algorithm is easy to understand, it is not often used
 in practice, due to prediction being slow and its inability to handle many features
+# Day 3 DECISION TREE CLASSIFIER
+Decision trees are widely used models for classification and regression tasks. Essen‐
+tially, they learn a hierarchy of if/else questions, leading to a decision.
+These questions are similar to the questions you might ask in a game of 20 Questions.
+Imagine you want to distinguish between the following four animals: bears, hawks,
+penguins, and dolphins. Your goal is to get to the right answer by asking as few if/else
+questions as possible. You might start off by asking whether the animal has feathers, a
+question that narrows down your possible animals to just two. If the answer is “yes,”
+you can ask another question that could help you distinguish between hawks and
+penguins. For example, you could ask whether the animal can fly. If the animal
+doesn’t have feathers, your possible animal choices are dolphins and bears, and you
+will need to ask a question to distinguish between these two animals—for example,
+asking whether the animal has fins. Thats what we did today with our iphone purchase records. Open the notebook for more detailed info.
