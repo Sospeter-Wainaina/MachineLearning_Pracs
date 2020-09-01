@@ -47,3 +47,6 @@ penguins. For example, you could ask whether the animal can fly. If the animal
 doesn’t have feathers, your possible animal choices are dolphins and bears, and you
 will need to ask a question to distinguish between these two animals—for example,
 asking whether the animal has fins. Thats what we did today with our iphone purchase records. Open the notebook for more detailed info.
+
+# Day 4 Predicting customer churn
+PLease open the notebook to find more detailed info, i explained every step in detail
